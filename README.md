@@ -25,4 +25,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shaharejaweb) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaharejaweb)](https://github.com/ryo-ma/github-profile-trophy)
 
-Thank you spending your valuable time 👋
+Thank you for spending your valuable time 👋
